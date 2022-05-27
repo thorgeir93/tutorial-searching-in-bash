@@ -1,0 +1,18 @@
+
+
+    Fuzzy searching in Bash
+    =======================
+
+    $ fzf
+
+        * Finds all files
+        * Mouse clicking
+
+
+    $ ag foobar | fzf
+
+    $ <Hit ctrl-r>
+
+    $ ssh **<tab>
+
+    $ vim -o $(fzf --preview='less {}')

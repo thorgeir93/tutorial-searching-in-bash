@@ -1,0 +1,10 @@
+
+
+    cheat - view/edit interactive cheatsheets
+    ====================================
+
+    $ cheat
+
+    $ cheat date
+
+    $ cheat -e date
